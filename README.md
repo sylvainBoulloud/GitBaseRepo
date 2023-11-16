@@ -35,7 +35,9 @@
 ## Usefull Links
 
 **https://git-scm.com/docs/user-manual.html**
+
 **https://www.w3schools.com/git/git_getstarted.asp#:~:text=Git%20Getting%20Started%201%20Git%20Install%20You%20can,for%20our%20project%3A%20...%205%20Initialize%20Git%20**
+
 **https://www.baeldung.com/git-guide**
 
 ### Use Cases to develop in Team
