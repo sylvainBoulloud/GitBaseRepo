@@ -34,7 +34,15 @@
 
 ## Usefull Links
 
+    ↓ Git official user manual ↓
+
 **https://git-scm.com/docs/user-manual.html**
+
+    ↓ Common Use Case with branches ↓
+
+**https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Branches-et-fusions%C2%A0%3A-les-bases**
+
+    ↓ Get Started with Git ↓
 
 **https://www.w3schools.com/git/git_getstarted.asp#:~:text=Git%20Getting%20Started%201%20Git%20Install%20You%20can,for%20our%20project%3A%20...%205%20Initialize%20Git%20**
 
